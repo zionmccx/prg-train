@@ -1,4 +1,4 @@
-https://codeforces.com/contests
+https://codeforces.com
 https://atcoder.jp/
 
 https://open.kattis.com/
